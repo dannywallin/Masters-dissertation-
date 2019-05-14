@@ -54,6 +54,9 @@ The first picture is of a patch of how to import audio, from the computer into P
 
 The second designs are guitar patches which enable the guitar sound, to come through the speakers, with help of the bang feature.  There is a number box named “sel 0 1 2 3 “ this shows how many instruments are being played. The zero breaks the pattern up, so when it comes back to zero, there is no sound. This helps create a silence which results in a change of sound.
 
+![](1209826_13-05-2019_17-18-51.png)
+
+
 What Could Be Improved 
 
 The patch in parts was not working to its full potential due to arrays in the DSP box. With more time, they would have been eradicated so everything would be working properly. In the future, the guitars probably would be recorded more cleanly so when a distortion patch is created, it would not make the guitar give extra distortion and sound unclear. With more research, I would have implemented more effects such as wha, which is a guitar effect which is a type of filter with various standard types of audio filters. This is advocated for by Pearsall (2018).
