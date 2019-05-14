@@ -1,4 +1,4 @@
-**# Evaluation on Pure Random Pure Data Patch**
+# Evaluation on Pure Random Pure Data Patch
 
 **Daniel Wallin**
 
