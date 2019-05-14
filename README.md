@@ -33,6 +33,8 @@ Another type of patch is a Reverb Sub Patch which helps manipulate a new sound, 
 
 Dattorro (1997) further adds reverb aims to recreate the natural ambience of real rooms and spaces. Additionally, there is a slider for pre delay. Senior, (2008) explains pre delay is the amount of reverb time, between the original dry reverb sound, early reflections and reverb tail. This is the same for the delay. Joe (2017) explains delay is an effect created by effects of audio repeating a signal.
 
+![](1209826_13-05-2019_17-18-51_1.png)
+
 Once the patch has been in use and all the guitar chords have all played and the last chord has been played it returns back to the start. An incoming “bang” signal communicates to the patches, when it is ready to trigger the next wave files. Triggering is when the bang is pressed this informs the wave files that send information for the guitar chord sounds Armfield,2006
 
 What It does Compared With Other Sequencers
