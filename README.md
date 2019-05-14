@@ -47,7 +47,7 @@ The design of this random guitar patch for this project is based generally aroun
 
 The advantages this patch has over these sequencers is; that it has different guitar chords, imported into the patch. The second part is that it has a clipper distortion. A clipper is a tool which helps preserve dynamic control whilst saving transients and creating distortion (Sturgis, 2018). It has a high and low pass filter equaliser (EQ). Filters are devices that are created to remove some portion of the frequency spectrum (Robjohns, 2005). Equaliser allows users to adjust the frequency bands which in turn, enables users to remove certain unwanted frequencies in each track. Additionally, it enables people to boost certain frequencies that they feel will enhance the track (Meijet,2017)
 
-
+![](1209826_13-05-2019_17-18-51_2.png)
 
 How was it created
 
@@ -60,7 +60,7 @@ The first picture is of a patch of how to import audio, from the computer into P
 
 The second designs are guitar patches which enable the guitar sound, to come through the speakers, with help of the bang feature.  There is a number box named “sel 0 1 2 3 “ this shows how many instruments are being played. The zero breaks the pattern up, so when it comes back to zero, there is no sound. This helps create a silence which results in a change of sound.
 
-![](1209826_13-05-2019_17-18-51.png)
+
 
 
 What Could Be Improved 
