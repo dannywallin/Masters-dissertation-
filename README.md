@@ -50,7 +50,7 @@ This project was originally inspired after hearing a similar piece on the intern
 
 The first picture is of a patch of how to import audio, from the computer into Pure Data so when the trigger button was pressed then audio would play.
 
-https://github.com/matdwlv/7MU009/UW1/blob/master/1209826_13-05-2019_17-18-51.png
+![](https://github.com/matdwlv/7MU009/UW1/blob/master/1209826_13-05-2019_17-18-51.png)
 
 The second designs are guitar patches which enable the guitar sound, to come through the speakers, with help of the bang feature.  There is a number box named “sel 0 1 2 3 “ this shows how many instruments are being played. The zero breaks the pattern up, so when it comes back to zero, there is no sound. This helps create a silence which results in a change of sound.
 
