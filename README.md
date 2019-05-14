@@ -29,6 +29,10 @@ As part of the process Pure Data was used to randomly select different guitar ch
 		
 On a random patch selector, it is common to find more than one piece of audio, usually between 2-3, this is a common practice for patches similar to this patch. The sequencer steps along the row, one step at a time;  if the tempo is at speed where it is slow enough or if the tempo is faster, then it will turn into a sequencer of sounds being triggered at different times.
 At each step, a number box from 0 – 3 helps select the inputs. This enables the patch to connect from a bang, which triggers the patches that then play the chords, with the help of a patch. Audio files from the guitar recordings are imported; each time the bang is selected the sequencer selects a new guitar audio file. 
+
+![](1209826_13-05-2019_17-18-51_3.png)
+
+
 Another type of patch is a Reverb Sub Patch which helps manipulate a new sound, by adding reverb. According to Pearsall (2018) reverb is when sound waves reflect off surfaces, in a room. This then causes a number of reflections to travel closely together which is then decoded by a person’s hearing. The human ear cannot hear them as individual delays. The reverb with the help of a slider, controls the amount of reverb being used. If there is too much reverb the slider can be put back a little, depending on how much reverb is wanted. 
 
 Dattorro (1997) further adds reverb aims to recreate the natural ambience of real rooms and spaces. Additionally, there is a slider for pre delay. Senior, (2008) explains pre delay is the amount of reverb time, between the original dry reverb sound, early reflections and reverb tail. This is the same for the delay. Joe (2017) explains delay is an effect created by effects of audio repeating a signal.
