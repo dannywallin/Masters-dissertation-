@@ -1,26 +1,26 @@
-Evaluation on Pure Random Pure Data Patch
+						Evaluation on Pure Random Pure Data Patch
 
 
 
 
-Daniel Wallin
+							Daniel Wallin
 
 
 
 
-MSc Audio Technolegy
-
-
-
-
-
-7MU009/UW1 Music Computing
+						     MSc Audio Technolegy
 
 
 
 
 
-2018/2019
+						7MU009/UW1 Music Computing
+
+
+
+
+
+							2018/2019
 
 Introduction
 
