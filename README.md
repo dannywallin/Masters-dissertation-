@@ -1,3 +1,9 @@
+Evaluation on Pure Random Pure Data Patch
+Daniel Wallin
+MSc Audio Technolegy
+7MU009/UW1 Music Computing
+2018/2019
+
 Introduction
 
 This aim of  project was to design an innovative software in an area of Pure Data which included; different musical analysis along with unique software tools. This project was inspired by music composers such as Miller Puckette who uses custom sound and recordings. According to Slade (2010) Miller Puckette is the founder of live programming, as well as Pure Data and Max which are famous program softwares. Secondly, Christian Fennesz uses guitars and computers to create shimmering, swirling electronic sounds of enormous range and complex musicality. He too has influenced this project. His album of music has songs created by live guitar recordings and computer generated music. Consequently, this project has also used guitar chords which have been recorded, in order to be changed with the help of Pure Data.
