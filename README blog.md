@@ -167,3 +167,6 @@ Appendix 2
 Appendix 3
 ![](https://github.com/dannywallin/Masters-dissertation-/blob/master/appendix%203%20intro%20melody%20line%20rock%20song.png)
 
+Appendix 4
+
+https://www.dropbox.com/sh/rsfeo1n4awdpx84/AABCQqJ7wRCGxcW4ke8g4fPza?dl=0
