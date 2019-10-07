@@ -264,6 +264,9 @@ Wisdom (2013) [Mixed Methods: Integrating Quantitative and Qualitative Data Coll
 
 Woodward, I. (2013). medium in the age of digital reproduction. The vinyl: The analogue medium in the age of digital reproduction. 1 (2), 50-51.
 
+Wolverhampton university (2018) [Handbook for Ethical Approval & Practice Procedures ][Accessed 7th September 2019] Available at: < https://www.wlv.ac.uk/media/departments/research/documents/Handbook-for-Ethical-Approval-&-Practice-Procedures.pdf >.
+
+
 **Appendix**
 
 Appendix 1
